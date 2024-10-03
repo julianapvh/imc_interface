@@ -32,12 +32,12 @@ A classificação segue a seguinte tabela:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-imc.git
+   git clone https://github.com/julianapvh/imc_interface.git
 Navegue até o diretório do projeto:
 
 bash
 Copiar código
-cd calculadora-imc
+cd imc_interface
 Crie um ambiente virtual:
 
 bash
@@ -63,7 +63,7 @@ Após instalar as dependências, execute o arquivo principal da aplicação:
 
 bash
 Copiar código
-python main.py
+python imc.py
 Contribuição
 Se você deseja contribuir para o projeto, siga estas etapas:
 
