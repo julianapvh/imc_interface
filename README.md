@@ -32,7 +32,7 @@ A classificação segue a seguinte tabela:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/julianapvh/imc_interface.git
+   git clone https://github.com/julianapvh/imc_interface
 Navegue até o diretório do projeto:
 
 bash
